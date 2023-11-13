@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/incubtor/static/css/main.82e7e827.css",
-    "main.js": "/incubtor/static/js/main.44eae4f2.js",
+    "main.css": "/incubtor/static/css/main.631dcfef.css",
+    "main.js": "/incubtor/static/js/main.bc5645ea.js",
     "static/js/787.2fc79159.chunk.js": "/incubtor/static/js/787.2fc79159.chunk.js",
     "static/media/contact2bg.jpg": "/incubtor/static/media/contact2bg.d420914ae2a92a113dd2.jpg",
     "static/media/about-bg.jpg": "/incubtor/static/media/about-bg.bf50b383285d355cc434.jpg",
@@ -19,12 +19,12 @@
     "static/media/vincent-adams-team.png": "/incubtor/static/media/vincent-adams-team.18749fdd3a01be53cbde.png",
     "static/media/jena-lambert-team.png": "/incubtor/static/media/jena-lambert-team.e2bd3cc3a153a0931cfd.png",
     "index.html": "/incubtor/index.html",
-    "main.82e7e827.css.map": "/incubtor/static/css/main.82e7e827.css.map",
-    "main.44eae4f2.js.map": "/incubtor/static/js/main.44eae4f2.js.map",
+    "main.631dcfef.css.map": "/incubtor/static/css/main.631dcfef.css.map",
+    "main.bc5645ea.js.map": "/incubtor/static/js/main.bc5645ea.js.map",
     "787.2fc79159.chunk.js.map": "/incubtor/static/js/787.2fc79159.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.82e7e827.css",
-    "static/js/main.44eae4f2.js"
+    "static/css/main.631dcfef.css",
+    "static/js/main.bc5645ea.js"
   ]
 }
