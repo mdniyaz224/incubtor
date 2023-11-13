@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'mycustomfont';
+    src: url('../public/font/NotoSerifKhojki-Bold.ttf');
+}
+.cs_font{
+    font-family: 'mycustomfont' 
+}

@@ -1,0 +1,7 @@
+.subscribe_img {
+    background-image: url('../../assets/images/parallax-news.jpg');
+    width: 100%;
+    height: 100%;
+    background-position: fixed;
+    background-size: cover;
+}

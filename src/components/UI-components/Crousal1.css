@@ -1,0 +1,36 @@
+.carousel .carousel-status {
+    padding: 0px !important;
+    font-size: 0px !important;
+    text-shadow: 0 !important;
+    color: white !;
+}
+
+.css-tq8rnh-MuiTypography-root {
+
+    margin-right: 377px !important;
+}
+
+.css-ahj2mt-MuiTypography-root {
+    margin-right: 377px !important;
+}
+.css-1jyf2d1-MuiSvgIcon-root {
+    margin-right: 620px !important;
+}
+.crousal{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.carousel .control-dots .dot {
+
+    background: black !important;
+    margin-top: 100px !important;
+ 
+}
+.latest_blog_post {
+    text-align: center !important;
+    width: 50% !important;
+    margin: auto !important;
+}
+.cr-head{
+    display: flex !important;
+    flex-direction: column !important;
+}

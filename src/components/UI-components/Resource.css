@@ -1,0 +1,50 @@
+.resource_img {
+    background-image: url('../../assets/images/parallax-quote\ \(1\).jpg');
+    width: 100%;
+    height: 100%;
+    background-position: fixed;
+    background-size: cover;
+}
+
+/* .resource_text {
+    width: 700px;
+    margin: auto;
+    padding: auto;
+} */
+
+.hr {
+    width: 200px;
+}
+
+/* @media screen and (max-width: 840px) {
+    .resource_text {
+        width: 450px;
+        margin: auto;
+        padding: auto;
+        font-size: 15px;
+
+    }
+} */
+
+/* sx={{ textAlign: 'center', color: 'white;', fontWeight: '700', lineHeight: '30px', margin: 'auto 20% auto 20%' }} */
+
+.incubator {
+    text-align: justify;
+    color: white;
+    font-weight: 700 !important;
+    /* line-height: 30px !important; */
+    margin: 200px 25% 100px 25% !important;
+    padding: 20px 30% auto 30% !important;
+}
+
+@media screen and (max-width: 540px) {
+    .incubator {
+        text-align: justify;
+        color: white;
+        font-size: 25px !important;
+        font-weight: 700 !important;
+        /* line-height: 30px !important; */
+        margin: 200px 25% 100px 25% !important;
+        padding: 20px 30% auto 30% !important;
+    }
+}
