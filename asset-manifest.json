@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/foodapplendingpage/static/css/main.5e9a4e7e.css",
+    "main.js": "/foodapplendingpage/static/js/main.4e6a9018.js",
+    "static/js/787.41199e44.chunk.js": "/foodapplendingpage/static/js/787.41199e44.chunk.js",
+    "static/media/contact2bg.jpg": "/foodapplendingpage/static/media/contact2bg.d420914ae2a92a113dd2.jpg",
+    "static/media/about-bg.jpg": "/foodapplendingpage/static/media/about-bg.bf50b383285d355cc434.jpg",
+    "static/media/parallax-quote (1).jpg": "/foodapplendingpage/static/media/parallax-quote (1).099d7c909e24e1c8b370.jpg",
+    "static/media/pricing-bg.png": "/foodapplendingpage/static/media/pricing-bg.748a057c70e56b7e3931.png",
+    "static/media/tab4 .jpg": "/foodapplendingpage/static/media/tab4 .1019ea87a804622b04de.jpg",
+    "static/media/BebasNeue-Regular.ttf": "/foodapplendingpage/static/media/BebasNeue-Regular.12e3683f9192436a7be8.ttf",
+    "static/media/pngtree-world-map-png-image_7465221.png": "/foodapplendingpage/static/media/pngtree-world-map-png-image_7465221.0fd77bd4b6b7d7328f22.png",
+    "static/media/parallax-sollutions (1).jpg": "/foodapplendingpage/static/media/parallax-sollutions (1).0d77005fb2808718d342.jpg",
+    "static/media/contact-parallax.png": "/foodapplendingpage/static/media/contact-parallax.f8baa1316d2f270110c7.png",
+    "static/media/slide2bg.jpg": "/foodapplendingpage/static/media/slide2bg.659489f4bd3e425f9ffc.jpg",
+    "static/media/parallax-news.jpg": "/foodapplendingpage/static/media/parallax-news.75bee5cd72f0a356fe0d.jpg",
+    "static/media/bruce-sutton-team.png": "/foodapplendingpage/static/media/bruce-sutton-team.9e4f08d81c3336d761c5.png",
+    "static/media/raymond-turner-team.png": "/foodapplendingpage/static/media/raymond-turner-team.fb6dd76b72d47fcabe8d.png",
+    "static/media/vincent-adams-team.png": "/foodapplendingpage/static/media/vincent-adams-team.18749fdd3a01be53cbde.png",
+    "static/media/jena-lambert-team.png": "/foodapplendingpage/static/media/jena-lambert-team.e2bd3cc3a153a0931cfd.png",
+    "index.html": "/foodapplendingpage/index.html",
+    "main.5e9a4e7e.css.map": "/foodapplendingpage/static/css/main.5e9a4e7e.css.map",
+    "main.4e6a9018.js.map": "/foodapplendingpage/static/js/main.4e6a9018.js.map",
+    "787.41199e44.chunk.js.map": "/foodapplendingpage/static/js/787.41199e44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e9a4e7e.css",
+    "static/js/main.4e6a9018.js"
+  ]
+}
